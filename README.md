@@ -6,6 +6,7 @@ It is a mix of:
 - **Functional programming snippets** (OCaml),
 - **Old-school numerical or geometric tricks**,
 - And some **ancient calculation methods** I have implemented in C++, just because I found them interesting.
+- My first ever experiment with NN... Using financial theory still...
 
 Nothing here is structured or part of a project, but simply a sandbox for ideas I find interesting (or nostalgic).  
 
